@@ -6,9 +6,9 @@
 <circle cx="1110" cy="180" r="105" fill="none" stroke="#8670ce" stroke-opacity=".18"/>
 <g fill="url(#accent)"><path d="M1015 120 1015 240 1100 180Z"/><path d="M1108 120 1108 240 1193 180Z"/><rect x="1206" y="120" width="10" height="120" rx="5"/></g>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
-<text x="66" y="72" font-size="15" font-weight="600" letter-spacing="3" fill="#b6a2ff">BROWSER EXTENSION / FOR ARC</text>
+<text x="66" y="72" font-size="15" font-weight="600" letter-spacing="3" fill="#b6a2ff">CHROMIUM EXTENSION / MANIFEST V3</text>
 <text x="62" y="160" font-size="68" font-weight="750" letter-spacing="-2" fill="#f4f1ff">AnimeLib Skip</text>
 <text x="66" y="211" font-size="25" fill="#c4c1d7">Меньше отвлечений. Больше аниме.</text>
 <rect x="66" y="263" width="315" height="36" rx="18" fill="#242139" stroke="#3d3558"/>
-<text x="88" y="287" font-size="14" fill="#d1cae9">Arc  ·  Chromium  ·  Manifest V3</text>
+<text x="88" y="287" font-size="14" fill="#d1cae9">Arc  ·  Chrome  ·  Edge  ·  Brave</text>
 </g></svg>
