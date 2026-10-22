@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "AnimeLib — пропуск видеорекламы",
+  "version": "1.0.0",
+  "description": "Отключает загрузку рекламного AdLoader в плеере AnimeLib на animelib.org.",
+  "minimum_chrome_version": "111",
+  "content_scripts": [
+    {
+      "matches": ["https://animelib.org/*"],
+      "js": ["skip-ads.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
