@@ -1,0 +1,9 @@
+/* AnimeLib SprBlock: hide the entire slot, including its reserved height. */
+.w3_x,
+[data-animelib-skip-hidden] {
+  display: none !important;
+  min-height: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
